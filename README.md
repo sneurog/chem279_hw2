@@ -3,7 +3,7 @@
 
 This repository contains 2 header files and 3 cpp files:
 
-1. `integrals.cpp`: This file includes the function for homework 2.
+1. `integrals.cpp`: This file includes the functions for homework 2.
 2. `readfile.cpp`: It consists of functions for reading files.
 3. `readfile.h`: This header file provides the API for reading files.
 4. `mainhw2.cpp`: This file executes the problem set 2.
