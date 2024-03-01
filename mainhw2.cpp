@@ -77,6 +77,7 @@ int main() {
                         cout << setw(10) << S << " ";
                     }
                     cout << endl;  
+} //this bracket happened to be deleted 
             } catch (const exception& e) {
                 cerr << "Error: " << e.what() << endl;
             }
@@ -85,4 +86,4 @@ int main() {
 
     return 0;
 }
-} //this bracket happened to be deleted 
+
